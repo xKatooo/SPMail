@@ -31,7 +31,7 @@ Una vez ya instalado no necesitamos más que abrirlo
 
 Primero abrimos la carpeta en la que está el archivo 
 ```
-cd /spmail
+cd spmail/
 ```
 
 Ahora ejecutamos el script 
