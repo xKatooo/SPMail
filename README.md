@@ -44,6 +44,7 @@ Llenamos los datos y este enviara el correo falso
 ### Correo con HTML
 Para enviar un correo en HTML pega tu código en el archivo 'html.txt'
 
+### Avisó
 NO NOS HACEMOS RESPONSABLES DE EL USO QUE SE LE DE A ESTA HERRAMIENTA, SOLO TIENE LA FINALIDAD DE ESTUDIAR Y COMPRENDER LA FACILIDAD CON LA QUE SE PUEDE ENGAÑAR A UNA PERSONA CON DATOS FALSOS 
 
 # Para contribuidores
