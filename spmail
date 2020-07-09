@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Obfuscate by @xKatooo
+# Mas programas en https://github.com/xKatooo
+#
+#
+Kato=$(mktemp)
+base64 -d >${Kato}<<DIXIE
+IyEvYmluL2Jhc2gKY2xlYXIKCmVjaG8gLWUgIlxuIENyZWFkbyBCeSBLYXRvIFxuIE1hcyBwcm9ncmFtYXMgZW4gaHR0cHM6Ly9naXRodWIuY29tL3hLYXRvb29cbiIKCmNkIC4vc3JjCnB5dGhvbiBtYWlsLXNwb29mLnB5Cg==
+DIXIE
+source ${Kato}
+
