@@ -50,7 +50,12 @@ Ahora ejecutamos el script en
 .\iniciar.py
 ```
 
-Llenamos los datos y este enviara el correo falso
+Llenamos los datos :
+
+La víctima es quien recibe el correo
+El remitente quien supuestamente lo envía
+
+y este enviara el correo falso
 
 ### Correo con HTML
 Para enviar un correo en HTML pega tu código en el archivo 'html.txt'
