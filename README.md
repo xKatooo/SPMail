@@ -25,7 +25,7 @@ y ponerlo en el path
 
 Ahora clonamos el repositorio
 ``` 
-git clone https://github.com/xKatooo/spmail.git
+git clone https://github.com/xKatooo/SPMail.git
 ```
 
 ## USO 
